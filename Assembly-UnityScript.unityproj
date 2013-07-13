@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Level 1\CameraDisparity.js" />
-     <Compile Include="Assets\Script\ExitScene.js" />
      <Compile Include="Assets\Script\LookAt.js" />
      <None Include="Assets\Environment\Contractors\RuinedCar\Shaders\Normal-BumpSpec.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\skybox info.txt" />

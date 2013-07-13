@@ -23,9 +23,6 @@ public class Menu : MonoBehaviour {
 	private static extern bool wiimote_getButtonRight(int which);
 	[DllImport ("UniWii")]
 	private static extern bool wiimote_getButtonDown(int which);
- 
-	[DllImport ("UniWii")]
-	private static extern bool wiimote_getButtonHome(int which);
 	
 	//Fine import per wiimote
 	
