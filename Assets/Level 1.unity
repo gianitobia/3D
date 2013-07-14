@@ -303,6 +303,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &253653663
 Prefab:
   m_ObjectHideFlags: 0
@@ -511,6 +512,8 @@ Transform:
   m_LocalScale: {x: 1, y: .999999821, z: 1.00000012}
   m_Children: []
   m_Father: {fileID: 478960414}
+=======
+>>>>>>> 79c1b1fdb25ebcbeadf4da934e22c9a718476684
 --- !u!1 &677344506
 GameObject:
   m_ObjectHideFlags: 0
@@ -675,6 +678,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &908153167
 GameObject:
   m_ObjectHideFlags: 0
@@ -733,6 +737,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 3.5134387}
   m_Children: []
   m_Father: {fileID: 478960414}
+=======
+>>>>>>> 79c1b1fdb25ebcbeadf4da934e22c9a718476684
 --- !u!1 &931057916
 GameObject:
   m_ObjectHideFlags: 0
@@ -1157,6 +1163,7 @@ Prefab:
   m_RootGameObject: {fileID: 1550745751}
   m_IsPrefabParent: 0
   m_IsExploded: 1
+<<<<<<< HEAD
 --- !u!1 &1627014935
 GameObject:
   m_ObjectHideFlags: 0
@@ -1183,6 +1190,8 @@ Transform:
   m_LocalScale: {x: 1, y: .999999821, z: 1.00000012}
   m_Children: []
   m_Father: {fileID: 478960414}
+=======
+>>>>>>> 79c1b1fdb25ebcbeadf4da934e22c9a718476684
 --- !u!1 &1884081028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1196,6 +1205,7 @@ GameObject:
   - 114: {fileID: 1884081032}
   - 114: {fileID: 1884081031}
   - 114: {fileID: 1884081030}
+  - 114: {fileID: 1884081035}
   m_Layer: 0
   m_Name: First Person Controller Depth
   m_TagString: Untagged
@@ -1337,6 +1347,17 @@ CharacterController:
   m_SkinWidth: .0500000007
   m_MinMoveDistance: 0
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1884081035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400018, guid: 4757efa8fcc6c451880fbde7f5400af3,
+    type: 2}
+  m_PrefabInternal: {fileID: 1488958907}
+  m_GameObject: {fileID: 1884081028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c05831e10f854db6aed1c1f4dbe78b9, type: 3}
+  m_Name: 
 --- !u!1001 &1966822464
 Prefab:
   m_ObjectHideFlags: 0
@@ -1430,6 +1451,7 @@ Animator:
   m_CullingMode: 1
   m_ApplyRootMotion: 1
   m_AnimatePhysics: 0
+<<<<<<< HEAD
 --- !u!1 &2139055785
 GameObject:
   m_ObjectHideFlags: 0
@@ -1456,3 +1478,5 @@ Transform:
   m_LocalScale: {x: .999999881, y: 1.00000012, z: .999999821}
   m_Children: []
   m_Father: {fileID: 478960414}
+=======
+>>>>>>> 79c1b1fdb25ebcbeadf4da934e22c9a718476684
